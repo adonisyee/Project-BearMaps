@@ -1,0 +1,3 @@
+explanation.txt
+
+I worked trying to debug my shortestpath function for two days straight without sleep. I rewrote it at least five times, and it turns out the entire time it worked perfectly for each implementation. I had two compareto functions that I tried, and the one I had commented out turned out to be the correct one. So, this assignment is late because I am stupid. Thank you and I hope this was good enough for full credit. ;)
